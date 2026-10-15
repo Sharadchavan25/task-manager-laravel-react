@@ -46,12 +46,12 @@ TaskManager/
 
 ### 1. Clone the Repository
 
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd TaskManager
-```
 
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual GitHub repository URL.
+git clone https://github.com/Sharadchavan25/task-manager-php-react-mysql.git
+cd TaskManager
+
+
+Replace `https://github.com/Sharadchavan25/task-manager-php-react-mysql.git` with your actual GitHub repository URL.
 
 ### 2. Configure the Laravel Backend
 
